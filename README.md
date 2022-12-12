@@ -14,6 +14,7 @@ N/A
 
 When a user enters the URL of the website, the web accessibility standards followed by the website enables the user to easily access the contents in the website.  
 
+
 ## License
 
 MIT license
