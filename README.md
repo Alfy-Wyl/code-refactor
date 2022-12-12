@@ -2,7 +2,7 @@
 
 ## Description
 
-To ensure that our website is better positioned in search engines to become easily accessible by all users. A source code that did not follow web accessibilty standards needed to be refactored in accordance with web accessibility standards by using semantic HTML. "Do-not Repeat Yourself" (DRY) codes system was used to reduce code lines.
+To ensure that our website is better positioned in search engines to become easily accessible by all users, a source code that did not follow web accessibilty standards needed to be refactored in accordance with web accessibility standards by using semantic HTML. "Do-not Repeat Yourself" (DRY) codes system was used to reduce code lines.
 
 
 ## Installation
