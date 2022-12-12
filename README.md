@@ -22,3 +22,5 @@ MIT license
 ##Link
 
 https://alfy-wyl.github.io/code-refactor/
+
+![Screenshot (1)](https://user-images.githubusercontent.com/118228946/206946566-37184cd5-9a89-41cd-94a2-124ee1e9b473.png)
